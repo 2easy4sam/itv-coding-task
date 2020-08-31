@@ -74,8 +74,8 @@
                             <goal>repackage</goal>
                         </goals>
                         <configuration>
-                            <mainClass>com.starling.Application</mainClass>
-                            <finalName>starling</finalName>
+                            <mainClass>com.itv.Application</mainClass>
+                            <finalName>itv</finalName>
                         </configuration>
                     </execution>
                 </executions>
